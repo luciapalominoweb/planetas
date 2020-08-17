@@ -1,0 +1,17 @@
+body
+{
+	padding: 10px;
+	margin: 40px;
+	font-size: 24px;
+	font-family: Helvetica;
+	background-image: url(https://wallpaper-house.com/data/out/6/wallpaper2you_112342.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: rgb(238, 226, 226);
+}
+
+nav
+{
+        background-color: rgb(255, 255, 255);
+        padding: 0px;
+        color:#d11aff;
